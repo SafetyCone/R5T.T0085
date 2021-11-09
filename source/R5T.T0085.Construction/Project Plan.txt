@@ -1,0 +1,3 @@
+R5T.T0085.Construction - Construction project for ApplicationSettingsJsonFile and other common, public IConfigurationSource types..
+
+GOALS:
